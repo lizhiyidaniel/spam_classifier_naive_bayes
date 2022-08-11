@@ -8,11 +8,14 @@ It uses a Bayes' theorem to calculate a probability that an email is spam or not
 
 ## Results:
 Training results:
+
 ![matrix1](images/output_28_1.png)
 
 
 Testing results:
+
 ![matrix2](images/output_29_1.png)
 
 Precision, Recall, and F1 score for testing results
+
 ![results](images/f1.jpg)
