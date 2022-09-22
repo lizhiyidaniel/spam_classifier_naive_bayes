@@ -1,5 +1,6 @@
 # spam_classifier_naive_bayes
 Using Naive Bayes to classify whether a message is spam or not <br>
+To view the Notebook code and visualization: [Click here](https://github.com/lizhiyidaniel/spam_classifier_naive_bayes/blob/main/spam_classifier_naive_bayes.ipynb)
 To view the post from my website: [Click here](https://lizhiyidaniel.github.io/2021/12/01/spam_classifier_naive_bayes.html)
 ## Background:
 Naive Bayes is a popular rstatistical technique for e-mail filtering. It uses bag-of-words features (use countvectorizer to create the features from the text) to identify the email spam. <br>
